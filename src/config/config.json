@@ -1,0 +1,152 @@
+{
+  "Nike": [
+    {
+      "id": 401423,
+      "Login": "work",
+      "Password": "wery",
+      "Proxy": "",
+      "Size": "6",
+      "Time": "56_7",
+      "MiddleName": "",
+      "CardNumber": "",
+      "CardDate": "",
+      "Cvv": "",
+      "Link": "https://www.nike.com/ru/launch/t/air-max-95-ndstrkt-black",
+      "IdNike": "99c0d47c-225f-5c50-b078-1a1044c114e9"
+    },
+    {
+      "id": 872060,
+      "Login": "good ",
+      "Password": "wrok",
+      "Proxy": "",
+      "Size": "",
+      "Time": "",
+      "MiddleName": "",
+      "CardNumber": "",
+      "CardDate": "",
+      "Cvv": "",
+      "Link": "",
+      "IdNike": "test"
+    }
+  ],
+  "Adidas": [
+    {
+      "id": 130922,
+      "firstName": "work",
+      "lastName": "verye",
+      "city": "well",
+      "zip": "",
+      "streat": "",
+      "house": "",
+      "phone": "",
+      "email": "",
+      "cn": "",
+      "co": "",
+      "cd": "",
+      "ccvv": "",
+      "link": "",
+      "size": "",
+      "type": ""
+    }
+  ],
+  "Brandshop": [
+    {
+      "id": 632551,
+      "Login": "",
+      "Password": "",
+      "Proxy": "",
+      "Size": "",
+      "CardNumber": "",
+      "CardDate": "",
+      "CardOwner": "",
+      "Cvv": "",
+      "Link": ""
+    }
+  ],
+  "Mails": [
+    {
+      "Api": "",
+      "Number": "",
+      "RecoveryMails": "",
+      "Passwords": "",
+      "Proxys": "",
+      "Webhook": ""
+    }
+  ],
+  "UserData": {
+    "webhook": "",
+    "currentMode": "Nike",
+    "isLoged": true,
+    "btns": [
+      "status",
+      "run",
+      "x2",
+      "delete"
+    ],
+    "allModes": [
+      "Nike",
+      "Brandshop",
+      "Mails",
+      "Adidas",
+      "Configs"
+    ],
+    "Nike": {
+      "playsholders": [
+        "Login",
+        "Password",
+        "Proxy",
+        "Size",
+        "Sec_msec",
+        "Middle Name",
+        "Card Number",
+        "Card Date",
+        "CVV",
+        "Link",
+        "ID"
+      ]
+    },
+    "Adidas": {
+      "playsholders": [
+        "First Name",
+        "Last Name",
+        "City",
+        "Zip",
+        "Streat",
+        "House",
+        "Phone",
+        "Email",
+        "Card Number",
+        "Card Owner",
+        "Card Date",
+        "CVV",
+        "Link",
+        "Size",
+        "headless-normal"
+      ]
+    },
+    "Brandshop": {
+      "playsholders": [
+        "Login",
+        "Password",
+        "Proxy",
+        "Size",
+        "Card Number",
+        "Card Date",
+        "Card Owner",
+        "CVV",
+        "Link"
+      ]
+    },
+    "Mails": {
+      "playsholders": [
+        "API Key",
+        "Number of mails",
+        "Recovery mails separate _",
+        "Passwords separate _",
+        "Proxys separate free space",
+        "Webhook"
+      ]
+    },
+    "key": "a_dre"
+  }
+}
